@@ -9,7 +9,7 @@ body {
 
 .top-background {
     height: 400px;
-    background-image: url("../images/powerball-background.jpg");
+    background-image: url("../images/background-2.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -92,10 +92,8 @@ body {
     border-radius: 50%;
     box-shadow: inset 5px -3px 25px #000000;
     animation-name: slidein;
-    animation-duration: 4s;
+    animation-duration: 3s;
     animation-timing-function: linear;  
-    /* transform: rotate(0deg);
-    transition: all 2s; */
 }
 @keyframes slidein {
   from {
