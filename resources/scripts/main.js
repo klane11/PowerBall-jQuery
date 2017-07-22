@@ -82,7 +82,5 @@ function getPowerBallSlot(){
 
 
 
-
-
 //1
 clickButton(1, 69);
